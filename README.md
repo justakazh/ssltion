@@ -1,6 +1,6 @@
 # ssltion
 
-<h3>7 lines code of Python for Bypass SSL Pinning with objection </h3><br><br>
+<h3>Just a simple script for Bypass SSL Pinning with objection </h3><br><br>
 -python3 requirements-<br>
 1. pip install frida-tools<br>
 2. pip install objection<br>
